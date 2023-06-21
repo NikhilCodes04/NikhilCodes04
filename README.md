@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilcodes04&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilcodes04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilcodes04" alt="nikhilcodes04" /></a> </p>
+- 🔭 I transport words to beautiful code<br/>
+- 📚 I'm currently learning to better my craft.<br/>
+- ⚡ I'm Spiderman but I don't wear a mask<br/><br/>
+
+
 
 - 📫 How to reach me **nikhilmittal2004@gmail.com**
 
